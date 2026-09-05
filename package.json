@@ -1,0 +1,14 @@
+{
+  "name": "gaia-archtree",
+  "version": "1.0.0",
+  "description": "GAIA archtree ignition skill -- adversarial binary-tree build/review swarm launched via `gaia summon`.",
+  "keywords": ["pi-package", "pi-skill"],
+  "type": "module",
+  "private": false,
+  "author": "pascaldisse",
+  "homepage": "https://github.com/pascaldisse/gaia-archtree",
+  "repository": "github:pascaldisse/gaia-archtree",
+  "pi": {
+    "skills": ["./skills/gaia-archtree"]
+  }
+}
